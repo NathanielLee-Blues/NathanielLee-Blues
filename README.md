@@ -16,6 +16,7 @@
 - Pathogenicity Prediction Model
 
 ## Contact
+- LinkedIn: https://www.linkedin.com/in/nathaniel-lee-blues-01b630181/
 <!--
 
 **NathanielLee-Blues/NathanielLee-Blues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
