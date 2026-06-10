@@ -1,6 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nathaniel
 
+ MSc Genomics  
+ Interested in Bioinformatics & Variant Analysis  
+ Currently working on pathogenicity prediction  
+
+## Bioinformatics Skills
+- RNA-seq analysis (DESeq2)
+- Variant calling (GATK)
+- Workflow tools (Snakemake / Nextflow)
+- Python & R
+
+## Featured Projects
+- Variant Analysis Pipeline (WGS → VCF)
+- RNA-seq Differential Expression
+- Pathogenicity Prediction Model
+
+## Contact
 <!--
+
 **NathanielLee-Blues/NathanielLee-Blues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
